@@ -1,0 +1,38 @@
+[
+  {
+    "koef_first": "1.82",
+    "koef_center": "3.65",
+    "koef_second": "4.80",
+    "systemDate": 1628708400,
+    "team_a": "Челсі",
+    "team_b": "Вільярреал",
+    "url": "https://www.favbet.com/uk/sports/event/soccer/32972228/"
+  },
+  {
+    "koef_first": "7.40",
+    "koef_center": "4.20",
+    "koef_second": "1.52",
+    "systemDate": 1630504800,
+    "team_a": "Казахстан",
+    "team_b": "Україна",
+    "url": "https://www.favbet.com/uk/short-register?action=/sports/event/soccer/34735599/"
+  },
+  {
+    "koef_first": "5.40",
+    "koef_center": "3.80",
+    "koef_second": "1.66",
+    "systemDate": 1630781100,
+    "team_a": "Україна",
+    "team_b": "Франція",
+    "url": "https://www.favbet.com/uk/short-register?action=/sports/event/soccer/34962158/"
+  },
+  {
+    "koef_first": "2.78",
+    "koef_center": "3.30",
+    "koef_second": "2.58",
+    "systemDate": 1691126700,
+    "team_a": "Чехія",
+    "team_b": "Україна",
+    "url": "https://www.favbet.com/uk/short-register?action=/sports/event/soccer/34837203/"
+  }
+]
